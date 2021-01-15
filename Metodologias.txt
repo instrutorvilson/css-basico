@@ -1,0 +1,3 @@
+https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem
+
+https://www.maujor.com/tutorial/metodologia-bem-para-criar-codigo-legivel.php
